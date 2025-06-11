@@ -29,4 +29,9 @@ Aplikasi ini memungkinkan pengguna untuk:
 7. Logout untuk keluar dari akun  
 
 ## **Screenshot UI dan Tampilan**  
-
+![Register](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/main/regis.png)
+![Login](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/main/login.png)
+![Login with google](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/main/logingoogle.png)
+![Add To Do List](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/main/addlist.png)
+![To Do List](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/main/list.png)
+![Edit To Do List](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/main/editlist.png)
