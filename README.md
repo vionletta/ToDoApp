@@ -30,8 +30,8 @@ Aplikasi ini memungkinkan pengguna untuk:
 
 ## **Screenshot UI dan Tampilan**  
 ![Register](https://github.com/vionletta/ToDoApp/blob/40a2fe4e4de7f4136f47da9cccd26e9256b9c7cd/regis.png)
-![Login](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/master/login.png)
-![Login with google](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/master/logingoogle.png)
-![Add To Do List](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/master/addlist.png)
-![To Do List](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/master/list.png)
-![Edit To Do List](https://raw.githubusercontent.com/vionletta/ToDoApp/blob/master/editlist.png)
+![Login](https://github.com/vionletta/ToDoApp/blob/0940b4ef4652eac64cf8ce5830c94e366a522a0e/login.png)
+![Login with google](https://github.com/vionletta/ToDoApp/blob/0940b4ef4652eac64cf8ce5830c94e366a522a0e/logingoogle.png)
+![Add To Do List](https://github.com/vionletta/ToDoApp/blob/0940b4ef4652eac64cf8ce5830c94e366a522a0e/addlist.png)
+![To Do List](https://github.com/vionletta/ToDoApp/blob/0940b4ef4652eac64cf8ce5830c94e366a522a0e/list.png)
+![Edit To Do List](https://github.com/vionletta/ToDoApp/blob/0940b4ef4652eac64cf8ce5830c94e366a522a0e/editlist.png)
