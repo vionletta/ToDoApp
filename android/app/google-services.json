@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "148371012524",
+    "project_id": "todoapplistmdi",
+    "storage_bucket": "todoapplistmdi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148371012524:android:e5666d93ffe257d75e1809",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148371012524-4umc6mkfr7bhku6ji2vu2ne7uunanjjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD60NpmPwneOjpqK2yKGZH10AG67UZnOww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148371012524-4umc6mkfr7bhku6ji2vu2ne7uunanjjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148371012524-d07admdmfodgjre7v8d6v2238jt8phmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterTodoFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
