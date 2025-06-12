@@ -9,9 +9,10 @@ Aplikasi ini memungkinkan pengguna untuk:
    - Nama tugas
    - Deadline (tanggal)
    - Kategori  
-4. Mengedit atau menghapus tugas yang sudah dibuat  
-5. Menandai tugas sebagai selesai  
-6. Logout dari akun dan kembali ke halaman login  
+4. Mengedit atau menghapus tugas yang sudah dibuat
+5. Melihat hasil statistik 
+6. Menandai tugas sebagai selesai  
+7. Logout dari akun dan kembali ke halaman login  
 
 ## **Teknologi yang Digunakan**  
 - Flutter  
